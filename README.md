@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Md Najib Murshed, currently working as a Software Engineer with 2+ years of experience
+- 👀 I’m interested in working with new technologies to build smart solutions for complex problems 
+- 🌱 I’m currently learning AI, ML, IoT and Big Data Analytics
+- 📫 You can reach me via: najibmurshed@iut-dhaka.edu
